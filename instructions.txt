@@ -1,0 +1,28 @@
+Royal Talon Fighter
+
+General instructions:
+All pieces should be placed flat on the table upright (unless otherwise stated) as near to the current structure as possible, but not overlapping and at table level.
+Horizontally means longer dimensions yadda yadda.
+Strategy: ...
+
+1. Find grey trapezium 2x2 piece. Place longest side towards you.
+2. Find 1x2 green rectangle. Place horizontally. Move forwards 1, and attach on top.
+3. Find 8-dot black trapezium with a 2x2 square missing from longest side. Place longest side towards you. Move forwards 3, and attach on top.
+4. Find 4x6 grey rectangle. Place portrait. Move forwards 1 and attach on bottom.
+5. Find 2x2 purple square. Move forwards 8 and attach on top.
+6. Find thick 2x6 grey rectangle. Place portrait. Move forwards 6 and attach on top.
+7. Find 10 grey 1x1 squares with hooks. Attach next to either side of previous piece with hooks facing outwards, except furthest row from you.
+8. Find 2 1x6 grey rectangles. Attach on either side of thick grey rectangle, with bottoms level.
+9. Find 4 1x3 white rectangles. Attach to cover previous two grey rectangles exactly.
+10. Find white piece consisting of strip of 4 dimples perpendicular to strip of 2 dots. Find 4 purple triangular prisms. Attach to 4-dimple strip such that flat sides of prisms are parallel with 2-dot strip.
+11. Attach new construction on top of back of main structure.
+
+
+/*
+
+1. Find grey trapezium 2x2 piece. Place upright on table with longest side closest to you.
+2. Find 1x2 green rectangle. Attach it on top of long edge of trapezium.
+3. Find 8-dot black trapezium with a 2x2 square missing from longest side. Attach to the top of shorter side of grey trapezium such that previous green piece just sticks out.
+4. Find 4x6 grey rectangle. Attach middle 2 dots of shorter side underneath longer side of grey trapezium.
+
+*/
