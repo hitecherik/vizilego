@@ -1,4 +1,4 @@
-Royal Talon Fighter
+30450 Royal Talon Fighter
 
 General instructions:
 All pieces should be placed flat on the table upright (unless otherwise stated) as near to the current structure as possible, but not overlapping and at table level.
@@ -16,6 +16,21 @@ Strategy: ...
 9. Find 4 1x3 white rectangles. Attach to cover previous two grey rectangles exactly.
 10. Find white piece consisting of strip of 4 dimples perpendicular to strip of 2 dots. Find 4 purple triangular prisms. Attach to 4-dimple strip such that flat sides of prisms are parallel with 2-dot strip.
 11. Attach new construction on top of back of main structure.
+12. Find 2 1x4 black rectangles, each with only two dots at the ends. Place portrait adjacent to and on same level as previous attachment.
+13. Find 2 ribbed white prisms. Attach at sides of black trapezium showing at the front of the main structure, to either side of purple square, with slant pointing away from you.
+14. Find 2 black smooth arcs and attach over previous white prisms.
+15. Find 2 white 3-dot flat corner pieces. Attach to side strips of structure, touching the right angled panel holding the purple prisms at the back.
+16. Find 2 white triangular pieces with 3 dots in a line. Attach 1 along from and on same level as corner pieces, with the other edge approaching the smooth black arcs.
+17. Find 2 black 1x2 flat rectangles. Attach 1 to dots at very front of structure. Attach the other between black arcs, on same level as 1x4 pieces with smooth centre.
+18. Find black 2x3 flat rectangle. Attach portrait on top of back of structure, with two dots on top of purple prisms.
+19. Find 2 black 2-dot triangular pieces. Attach alongside previous flat rectangle, with short edge towards you.
+20. Flip structure upside down.
+21. Find 10 black double-barrelled gun pieces. Attach to hooks on sides of structure, with angled barrels pointing down towards table.
+22. Find grey trapezium. Attach upside down on top of structur...............e as it lies, with longest side closest to you and 1 row of dots between it and the structure edge closest to you.
+23. Find 3 purple circles. Attach 2 on previous trapezium. Attach the other as far away from you as you can but so that it fits completely on the grey surface.
+24. Flick guns to face more towards rear of structure.
+24. Flip the structure the right way up.
+25. Congratulations on completing the 30450 Royal Talon Fighter.
 
 
 /*
